@@ -7,7 +7,7 @@ import java.util.Scanner;
        float a, b, res;
        char choice, ch;
        Scanner scan = new Scanner(System.in);
-	      
+       
       	do
          {
            System.out.print("1. Addition\n");
